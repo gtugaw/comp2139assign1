@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VIrtualEventTIcketingSystem", "VIrtualEventTIcketingSystem.csproj", "{0904BEB5-2068-43ED-8D59-00BC79ABA9B9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualEventTicketingSystem", "VirtualEventTicketingSystem.csproj", "{0904BEB5-2068-43ED-8D59-00BC79ABA9B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
