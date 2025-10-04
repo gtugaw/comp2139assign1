@@ -1,8 +1,8 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using VIrtualEventTIcketingSystem.Models;
+using VirtualEventTicketingSystem.Models;
 
-namespace VIrtualEventTIcketingSystem.Controllers;
+namespace VirtualEventTicketingSystem.Controllers;
 
 public class HomeController : Controller
 {

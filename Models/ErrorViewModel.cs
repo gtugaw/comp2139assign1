@@ -1,4 +1,4 @@
-namespace VIrtualEventTIcketingSystem.Models;
+namespace VirtualEventTicketingSystem.Models;
 
 public class ErrorViewModel
 {
